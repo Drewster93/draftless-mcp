@@ -3,12 +3,25 @@
   "name": "dev.draftless/draftless",
   "title": "Draftless",
   "description": "AI creative studio: generate image, video, voice and music, finish ads, publish to social.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "websiteUrl": "https://draftless.dev",
   "remotes": [
     {
       "type": "streamable-http",
       "url": "https://mcp.draftless.dev/mcp"
     }
-  ]
+  ],
+  "icons": [
+    {
+      "src": "https://draftless.dev/android-chrome-512x512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/Drewster93/draftless-mcp",
+    "source": "github"
+  }
 }
