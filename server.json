@@ -3,12 +3,16 @@
   "name": "dev.draftless/draftless",
   "title": "Draftless",
   "description": "AI creative studio: generate image, video, voice and music, finish ads, publish to social.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "websiteUrl": "https://draftless.dev",
   "remotes": [
     {
       "type": "streamable-http",
       "url": "https://mcp.draftless.dev/mcp"
+    },
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.draftless.dev/mcp/public"
     }
   ],
   "icons": [
