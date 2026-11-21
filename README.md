@@ -1,5 +1,7 @@
 # Draftless MCP server
 
+[![mcptry](https://mcptry.com/badge/dev.draftless/draftless)](https://mcptry.com/servers/dev.draftless/draftless)
+
 <img src="logo.png" width="96" alt="Draftless">
 
 **Draftless** is an AI creative studio your agent can drive. Generate images, video (Seedance 2.5, Veo, Kling and more), voiceover, music and 3D; edit, upscale, reframe and composite; plan and produce ads, UGC and launch films; and publish to Instagram, Facebook and TikTok.
