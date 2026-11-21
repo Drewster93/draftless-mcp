@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "dev.draftless/draftless",
+  "title": "Draftless",
+  "description": "AI creative studio: generate images, video, voice and music, edit and finish ads, and publish to social.",
+  "version": "1.0.2",
+  "websiteUrl": "https://draftless.dev",
+  "remotes": [
+    { "type": "streamable-http", "url": "https://mcp.draftless.dev/mcp" }
+  ]
+}
